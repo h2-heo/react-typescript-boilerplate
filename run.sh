@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export NODE_ENV=${NODE_ENV:-development}
+export NODE_ENV=${NODE_ENV:-production}
 
 if [ "$NODE_ENV" = "production" ]; then
   yarn install
