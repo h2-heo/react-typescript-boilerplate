@@ -1,6 +1,6 @@
-# Simple Board - Client
+# React in TypeScript Boilerplate with Docker
 
-Simple board by TypeScript + React
+React application in TypeScript.
 
 ## Prerequisites
 
